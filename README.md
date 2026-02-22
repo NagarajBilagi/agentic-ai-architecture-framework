@@ -5,8 +5,8 @@ This repository contains hands-on experiments exploring **Agentic AI architectur
 > It is a structured exploration project to understand how modern AI agent systems work internally.
 
 ---
-
-## 📂 Contents
+```
+## 📂 Langgraph_agent
 ├── 1_basic_chatbot/
 │   └── basic_chatbot.ipynb
 ├── 2_Human_assistance/
@@ -24,7 +24,7 @@ This repository contains hands-on experiments exploring **Agentic AI architectur
 ├── main.py
 ├── pyproject.toml
 └── uv.lock
-
+```
 
 ---
 
