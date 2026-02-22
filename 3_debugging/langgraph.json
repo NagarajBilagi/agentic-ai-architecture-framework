@@ -1,0 +1,10 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "tl_agent1": "./agent.py:agent"
+    },
+    "env": "../.env"
+}
+
